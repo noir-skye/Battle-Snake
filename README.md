@@ -1,20 +1,42 @@
-# Battlesnake Python Starter Project
-
-### An official Battlesnake template written in Python. Get started at [play.battlesnake.com](https://play.battlesnake.com).
+# Battle-Snake (Python)
 
 ![Battlesnake Logo](https://media.battlesnake.com/social/StarterSnakeGitHubRepos_Python.png)
 
-This project is a great starting point for anyone wanting to program their first Battlesnake in Python. It can be run locally or easily deployed to a cloud provider of your choosing. See the [Battlesnake API Docs](https://docs.battlesnake.com/api) for more detail. 
+## Overview
+
+**Battle-Snake (Python)** is a competitive AI agent developed for the **WISENC Conference BattleSnake Competition**.  
+The project builds on the official Battlesnake framework and focuses on intelligent decision-making, survival strategies, and competitive pathfinding in a multiplayer environment.
+
+This Battlesnake was designed to compete in **5v5 matches** and achieved **1st place** in its division at the competition.
+
+## Key Features
+
+- Competitive AI for the multiplayer game **Battlesnake**
+- Intelligent movement and decision logic written in **Python**
+- Survival-focused and adversarial strategies for crowded boards
+- Optimized pathfinding to avoid collisions and control space
+- Designed specifically for tournament-style, multi-snake matches
 
 ## Technologies Used
 
-This project uses [Python 3](https://www.python.org/) and [Flask](https://flask.palletsprojects.com/).
+- **Python 3**
+- **Flask**
+- **Battlesnake API**
 
-## Run Your Battlesnake
+## Competition Results
 
-1. Click the green 'Run' button to start your Battlesnake.
-2. Use your repl.co URL to register your Battlesnake and play games on [play.battlesnake.com](https://play.battlesnake.com).
+- 🏆 **1st Place – 5v5 Round**
+- 📍 **WISENC Conference BattleSnake Competition**
 
-## Next Steps
+## Technical Highlights
 
-Continue with the [Battlesnake Quickstart Guide](https://docs.battlesnake.com/quickstart) to customize and improve your Battlesnake's behavior.
+- Designed and implemented pathfinding algorithms to maximize snake survival
+- Balanced offensive and defensive movement strategies
+- Adapted decision-making based on board state, enemy positions, and available resources
+- Tuned behavior for competitive, real-time multiplayer gameplay
+
+## About Battlesnake
+
+Battlesnake is a multiplayer programming game where developers write code to control a snake that competes against others on a shared board. Each turn, the snake must decide where to move while avoiding collisions and outlasting opponents.
+
+
